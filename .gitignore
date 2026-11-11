@@ -37,3 +37,4 @@ Thumbs.db
 # ---- Output images produced by the demo ----
 outputs/
 node_modules
+config.bat
